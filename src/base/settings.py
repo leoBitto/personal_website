@@ -50,7 +50,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # add here the app names
-
+    'website',
+    'BBlog',
+    'django_quill',
+    'screener',
 ]
 
 MIDDLEWARE = [

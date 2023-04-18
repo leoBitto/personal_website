@@ -1,0 +1,9 @@
+[submodule "src/website"]
+	path = src/website
+	url = https://github.com/leoBitto/website.git
+[submodule "src/BBlog"]
+	path = src/BBlog
+	url = https://github.com/leoBitto/django-BBlog.git
+[submodule "src/screener"]
+	path = src/screener
+	url = https://github.com/leoBitto/NFA_screener.git
